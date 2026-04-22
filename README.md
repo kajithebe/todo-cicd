@@ -12,3 +12,7 @@ https://todo-cicd-443g.onrender.com
 - Frontend: React + Vite
 - CI/CD: GitHub Actions
 - Hosting: Render
+
+## CI/CD Pipeline
+
+This app uses GitHub Actions for CI/CD with automatic deployment to Render.
